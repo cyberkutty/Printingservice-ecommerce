@@ -1,5 +1,5 @@
 # Printing service-ecommerce
-A Website Designed to Printing Service Using PHP .
+A Website Designed to Printing Service Using PHP And MySQL
 
 # Check The Output From These Website
 https://kavieprintz.com/
